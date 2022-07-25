@@ -1,0 +1,98 @@
+{ "data" : [
+    {
+      "customerID": 1,
+      "name": "John",
+      "amount": 150,
+      "dateOfTransaction": "07-25-2022"
+    },
+    {
+      "customerID": 1,
+      "name": "Joy",
+      "amount": 60,
+      "dateOfTransaction": "03-15-2022"
+    },
+    {
+      "customerID": 1,
+      "name": "Jose",
+      "amount": 80,
+      "dateOfTransaction": "03-15-2022"
+    },
+    {
+      "customerID": 1,
+      "name": "Mark",
+      "amount": 25,
+      "dateOfTransaction": "10-01-2022"
+    },
+    {
+      "customerID": 1,
+      "name": "Amy",
+      "amount": 75,
+      "dateOfTransaction": "09-25-2022"
+    },
+    {
+      "customerID": 1,
+      "name": "Katty",
+      "amount": 330,
+      "dateOfTransaction": "22-01-2022"
+    },
+    {
+      "customerID": 1,
+      "name": "Jolly",
+      "amount": 11,
+      "dateOfTransaction": "07-04-2022"
+    },
+    {
+      "customerID": 1,
+      "name": "Max",
+      "amount": 80,
+      "dateOfTransaction": "23-03-2022"
+    },
+    {
+      "customerID": 2,
+      "name": "Revan",
+      "amount": 140,
+      "dateOfTransaction": "10-01-2022"
+    },
+    {
+      "customerID": 2,
+      "name": "Sam",
+      "amount": 75,
+      "dateOfTransaction": "10-21-2022"
+    },
+    {
+      "customerID": 2,
+      "name": "Park",
+      "amount": 30,
+      "dateOfTransaction": "06-09-2022"
+    },
+    {
+      "customerID": 2,
+      "name": "Tammy",
+      "amount": 95,
+      "dateOfTransaction": "06-21-2022"
+    },
+    {
+      "customerID": 2,
+      "name": "Tom",
+      "amount": 200,
+      "dateOfTransaction": "07-10-2012"
+    },
+    {
+      "customerID": 2,
+      "name": "June",
+      "amount": 245,
+      "dateOfTransaction": "11-21-2022"
+    },
+    {
+      "customerID": 3,
+      "name": "Mario",
+      "amount": 120,
+      "dateOfTransaction": "06-21-2022"
+    },
+    {
+      "customerID": 3,
+      "name": "Patty",
+      "amount": 400,
+      "dateOfTransaction": "11-01-2022"
+    }
+]}
